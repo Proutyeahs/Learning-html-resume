@@ -1,2 +1,2 @@
 # Proutyeahs.github.io
-Prime Academy entrance videos
+Prime Academy entrance challenge
