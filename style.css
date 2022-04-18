@@ -57,8 +57,9 @@ p, li {
 .footer {
   background: black;
   border: 1px solid white;
-  margin-right: 70%;
   color: white;
   padding-left: 10px;
+  padding-right: 10px;
+  display: inline-block;
  
 }
