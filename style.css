@@ -1,7 +1,21 @@
 body {
-  background-color: gray;
-  font-family: Arial, Helvetica, Sans-serif;
+  background-image: url(https://webdesigndev.com/wp-content/uploads/2015/02/Subtle-Light-Tile-Pattern-Vol4.jpg);
+  font-family: "Times New Roman", Arial, Helvetica, Sans-serif;
   margin: 10% 10%
+    
+}
+
+aside {
+  float: right
+}
+
+.jobs{
+  border-top: 2px solid black;
+  font-weight: bold;
+}
+
+.dates {
+  text-align: right;
 }
 
 .education-header {
@@ -12,10 +26,18 @@ body {
   background-color: rgba(0,0,0,0.2)
 }
 
+.work {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  background-color: rgba(0,0,0,0.2)
+}
+
 h1 {
-  color: purple;
+  color: black;
   font-size:24px;
-  font-family: Arial, Helvetica, Sans-serif;
+  font-family: "Times New Roman", Arial, Helvetica, Sans-serif;
 }
 
 img {
@@ -24,11 +46,11 @@ img {
 
 p, li {
   color: black;
-  font-family: Arial, Helvetica, Sans-serif;
+  font-family: "Times New Roman", Arial, Helvetica, Sans-serif;
 }
 
 .header{
-  border: 1px solid black;
+  border: 3px solid white;
   padding-left: 15px;
 }
 
