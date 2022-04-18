@@ -1,2 +1,2 @@
-# Learning-html-resume
-Prime Academy entrance videos
+# Proutyeahs.github.io
+Prime Academy entrance challenge
